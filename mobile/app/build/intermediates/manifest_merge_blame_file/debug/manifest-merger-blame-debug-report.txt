@@ -1,0 +1,149 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:13:5-79
+13-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:13:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:14:5-67
+14-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:14:22-64
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:5:5-28:19
+23        android:allowBackup="true"
+23-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:6:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:7:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:8:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:9:9-43
+30        android:label="@string/app_name"
+30-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:10:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:11:9-54
+32        android:supportsRtl="true"
+32-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:12:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.MyApplication" >
+34-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:13:9-51
+35        <activity
+35-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:15:9-27:20
+36            android:name="com.example.myapplication.MainActivity"
+36-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:16:13-41
+37            android:exported="true" >
+37-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:17:13-36
+38            <intent-filter>
+38-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:18:13-22:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:19:17-69
+39-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:19:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:21:17-77
+41-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:21:27-74
+42            </intent-filter>
+43
+44            <meta-data
+44-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:24:13-26:36
+45                android:name="android.app.lib_name"
+45-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:25:17-52
+46                android:value="" />
+46-->D:\Orie x Hana\SWD392\mobile\app\src\main\AndroidManifest.xml:26:17-33
+47        </activity>
+48
+49        <service
+49-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:17:9-23:19
+50            android:name="com.google.firebase.components.ComponentDiscoveryService"
+50-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:18:13-84
+51            android:directBootAware="true"
+51-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+52            android:exported="false" >
+52-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:19:13-37
+53            <meta-data
+53-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:20:13-22:85
+54                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+54-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:21:17-111
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-firestore:24.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\2f3aa6497e1ce37b971a47de14ed042f\transformed\firebase-firestore-24.1.0\AndroidManifest.xml:22:17-82
+56        </service>
+57
+58        <activity
+58-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LEGION'\.gradle\caches\transforms-3\0c90dee2369b4b74eaad8ea3e28e419d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+59            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+59-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LEGION'\.gradle\caches\transforms-3\0c90dee2369b4b74eaad8ea3e28e419d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+60            android:exported="false"
+60-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LEGION'\.gradle\caches\transforms-3\0c90dee2369b4b74eaad8ea3e28e419d\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\LEGION'\.gradle\caches\transforms-3\0c90dee2369b4b74eaad8ea3e28e419d\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+62
+63        <provider
+63-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+64            android:name="com.google.firebase.provider.FirebaseInitProvider"
+64-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+65            android:authorities="com.example.myapplication.firebaseinitprovider"
+65-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+66            android:directBootAware="true"
+66-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+67            android:exported="false"
+67-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+68            android:initOrder="100" />
+68-->[com.google.firebase:firebase-common:20.1.0] C:\Users\LEGION'\.gradle\caches\transforms-3\df60fa69eee52fb721b66dea499c29b4\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+69
+70        <meta-data
+70-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c572be365971aa21cc16c775a17655a7\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+71            android:name="com.google.android.gms.version"
+71-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c572be365971aa21cc16c775a17655a7\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+72            android:value="@integer/google_play_services_version" />
+72-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEGION'\.gradle\caches\transforms-3\c572be365971aa21cc16c775a17655a7\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+73
+74        <provider
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+75            android:name="androidx.startup.InitializationProvider"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+76            android:authorities="com.example.myapplication.androidx-startup"
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+77            android:exported="false" >
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+78            <meta-data
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+79                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+80                android:value="androidx.startup" />
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LEGION'\.gradle\caches\transforms-3\578ef19881b9e5c75a7e533506929846\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+81            <meta-data
+81-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LEGION'\.gradle\caches\transforms-3\c2dfcefb92e37fc96955220fe8b8c302\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+82                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+82-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LEGION'\.gradle\caches\transforms-3\c2dfcefb92e37fc96955220fe8b8c302\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+83                android:value="androidx.startup" />
+83-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LEGION'\.gradle\caches\transforms-3\c2dfcefb92e37fc96955220fe8b8c302\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+84        </provider>
+85    </application>
+86
+87</manifest>
