@@ -16,7 +16,7 @@ Choosing computer components or building a complete and cost-effective PC can be
 Develop a platform to facilitate buying and building suitable and easy-to-use PCs.
 
 ### Features:
-#### Guest:
+#### Employee:
 - Sign in to google
 - View product list
 - View product details
