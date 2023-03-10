@@ -25,5 +25,12 @@ Develop a platform to facilitate buying and building suitable and easy-to-use PC
 - Logout
 - Search products
 - Push notifications
-![image](https://user-images.githubusercontent.com/77708167/224253915-0a772cea-1b1d-46ff-8eb0-e74476d630c7.png)
-![image](https://user-images.githubusercontent.com/77708167/224253936-4cc704e0-9770-4b3f-8b82-30888b11674e.png)
+
+<div align="center">
+
+| ![image](https://user-images.githubusercontent.com/77708167/224253915-0a772cea-1b1d-46ff-8eb0-e74476d630c7.png) | ![image](https://user-images.githubusercontent.com/77708167/224253936-4cc704e0-9770-4b3f-8b82-30888b11674e.png) |
+| -------- | -------- |
+
+</div>
+
+
