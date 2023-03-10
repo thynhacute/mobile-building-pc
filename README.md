@@ -1,16 +1,29 @@
-# flutter_footer
+## lostAndFound
 
-A new Flutter project.
+### Members:
 
-## Getting Started
+- [Trần Đức Anh](https://www.facebook.com/tran.duc.anh.9101)
+- [Hoàng Nhã Thy](https://www.facebook.com/OrieSocuteee)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Context:
+The company wishes to build a system beyond selling computers that will provide additional services to help buyers customize their computer configuration based on their preferences and financial situation, providing a more flexible shopping experience. Customers can build their own PCs without relying on the assistance or advice of staff.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Problem:
+Choosing computer components or building a complete and cost-effective PC can be difficult for beginners. They often have to seek advice or do not know whether the components are compatible or not. The current process of buying a computer at the store is complicated, and many customers do not have much time to choose a computer. Customers may hesitate to ask for direct advice if they do not intend to buy regarding the detailed specifications of the computer and the price.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Proposed Solution:
+Develop a platform to facilitate buying and building suitable and easy-to-use PCs.
+
+### Features:
+#### Guest:
+- Sign in to google
+- View product list
+- View product details
+- View product list by category
+- View profile
+- Logout
+- Search products
+- Push notifications
+![image](https://user-images.githubusercontent.com/77708167/224253915-0a772cea-1b1d-46ff-8eb0-e74476d630c7.png)
+![image](https://user-images.githubusercontent.com/77708167/224253936-4cc704e0-9770-4b3f-8b82-30888b11674e.png)
