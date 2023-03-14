@@ -28,7 +28,7 @@ class LoginPage extends StatelessWidget {
             fit: BoxFit.cover, // Thay đổi chế độ phù hợp với hình ảnh
           ),
         ),
-        padding: EdgeInsets.symmetric(horizontal: 35),
+        padding: EdgeInsets.only(left: 35, bottom: 190, right: 35),
         child: Center(
 
             child: Column(
@@ -44,10 +44,11 @@ class LoginPage extends StatelessWidget {
                       borderRadius: BorderRadius.circular(20),
                     ),
                   ),
-                  icon: FaIcon(FontAwesomeIcons.google, color: Colors.indigoAccent),
+                  icon: FaIcon(FontAwesomeIcons.google, color: Color(0xFF425CFF)),
                   label: Text(
                     'Sign in with Google',
-                    style: TextStyle(fontSize: 19),
+                    style: TextStyle(fontSize: 21, color: Colors.white),
+
                   ),
                   onPressed: () {
                     final provider = Provider.of<GoogleSignInAndLogin>(context, listen: false);

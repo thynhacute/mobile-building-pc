@@ -20,7 +20,7 @@ class UserProfilePage extends StatelessWidget{
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/background_home.jpg'), // Thay đổi đường dẫn hình ảnh tại đây
+            image: AssetImage('assets/images/background.jpg'), // Thay đổi đường dẫn hình ảnh tại đây
             fit: BoxFit.cover, // Thay đổi chế độ phù hợp với hình ảnh
           ),
         ),
