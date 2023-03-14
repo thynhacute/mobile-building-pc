@@ -7,8 +7,8 @@
 | [Trần Đức Anh](https://www.facebook.com/tran.duc.anh.9101) | [Hoàng Nhã Thy](https://www.facebook.com/OrieSocuteee) |
 |:---------------:|:---------------:|
 | Jake Tran | Hoang Nha Thy |
-| ![image](https://user-images.githubusercontent.com/77708167/224860167-ec3256a2-f684-4be5-9013-1c2871bdfb41.png) | ![image](https://user-images.githubusercontent.com/77708167/224860384-ed45edbb-2b11-4be6-ac69-fd9122ce2d51.png) |
-| -------- | -------- |
+| ![image](https://user-images.githubusercontent.com/77708167/224860167-ec3256a2-f684-4be5-9013-1c2871bdfb41.png) | ![image](https://user-images.githubusercontent.com/77708167/224860879-8ddf50e1-1966-4a79-aac4-aab96c26afbb.png) |
+| 🌸🌸🌸 | 🐇🐇🐇 |
 
 </div>
 
