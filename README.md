@@ -28,8 +28,7 @@ Develop a platform to facilitate buying and building suitable and easy-to-use PC
 
 <div align="center">
 
-| ![image](https://user-images.githubusercontent.com/77708167/224859799-bf54f0c2-33d6-4745-b32c-cb230de24bb4.png)
- | ![image](https://user-images.githubusercontent.com/77708167/224859916-9d57c923-05f5-4a01-b8bb-3e1827e7d49c.png) |
+| ![image](https://user-images.githubusercontent.com/77708167/224859799-bf54f0c2-33d6-4745-b32c-cb230de24bb4.png) | ![image](https://user-images.githubusercontent.com/77708167/224859916-9d57c923-05f5-4a01-b8bb-3e1827e7d49c.png) |
 | -------- | -------- |
 
 </div>
