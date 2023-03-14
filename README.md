@@ -32,9 +32,9 @@ Develop a platform to facilitate buying and building suitable and easy-to-use PC
 - Search products
 - Push notifications
 
-**Since our team also writes Web apps, Mobile will only take on Role Employee ^^**
+**Since our team has already coded the Web app for the Admin and Customer roles, Mobile will only take on the Employee Role ^^**
 
-You can refer to our backend team: https://github.com/thynhacute/back-end-building-pc
+You can refer to our Backend team: https://github.com/thynhacute/back-end-building-pc
 
 <div align="center">
 
