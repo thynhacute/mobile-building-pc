@@ -38,7 +38,7 @@ You can refer to our Backend team: https://github.com/thynhacute/back-end-buildi
 
 <div align="center">
 
-| ![image](https://user-images.githubusercontent.com/77708167/224859799-bf54f0c2-33d6-4745-b32c-cb230de24bb4.png) | ![image](https://user-images.githubusercontent.com/77708167/224859916-9d57c923-05f5-4a01-b8bb-3e1827e7d49c.png) |
+| ![image](https://user-images.githubusercontent.com/77708167/224928962-d038bc82-49be-4f7d-bc1b-22e592b12150.png) | ![image](https://user-images.githubusercontent.com/77708167/224859916-9d57c923-05f5-4a01-b8bb-3e1827e7d49c.png) |
 | -------- | -------- |
 
 </div>
