@@ -5,7 +5,7 @@
 <div align="center">
 
 | [Trần Đức Anh](https://www.facebook.com/tran.duc.anh.9101) | [Hoàng Nhã Thy](https://www.facebook.com/OrieSocuteee) |
-| ---------------|:---------------:|
+|:---------------:|:---------------:|
 | Jake Tran | Hoang Nha Thy |
 | ![image](https://user-images.githubusercontent.com/77708167/224860167-ec3256a2-f684-4be5-9013-1c2871bdfb41.png) | ![image](https://user-images.githubusercontent.com/77708167/224860384-ed45edbb-2b11-4be6-ac69-fd9122ce2d51.png) |
 | -------- | -------- |
