@@ -8,7 +8,7 @@
 |:---------------:|:---------------:|
 | Jake Tran | Hoang Nha Thy |
 | ![image](https://user-images.githubusercontent.com/77708167/224860167-ec3256a2-f684-4be5-9013-1c2871bdfb41.png) | ![image](https://user-images.githubusercontent.com/77708167/224860879-8ddf50e1-1966-4a79-aac4-aab96c26afbb.png) |
-| 🌸🌸🌸 | 🐇🐇🐇 |
+| 🐇🐇🐇 | 🐇🐇🐇 |
 
 </div>
 
